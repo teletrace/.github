@@ -1,36 +1,39 @@
 ---
-name: Bug Report
-about: Report a bug to help us improve
-title: ''
-labels: ''
-assignees: ''
-
+name: "🐞 Bug Report"
+about: Create a report to help us improve
+title: "🐞 "
+labels: "Type: Bug"
+assignees: ""
 ---
 
-## Description
+# Describe the Bug
 
-Please provide a description of the problem.
+<!-- A clear and concise description of what the bug is. -->
+
+## Steps To Reproduce
+
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
 
 ## Expected Behavior
 
-Please describe what you expected would happen.
+<!-- A clear and concise description of what you expected to happen. -->
 
-## Actual Behavior
+## Tasks
 
-Please describe what happened instead.
+## More Information
 
-## Affected Version
+<!-- Additional relevant info which can help us debug this issue easily like Logs, Configuration etc. -->
 
-Please provide the version number where this issue was encountered.
+## Environment:
 
-## Steps to Reproduce
+- Infrastructure: [e.g., Kubernetes, bare-metal, laptop]
+- Deployment tool: [e.g., helm]
+- Browser: [e.g. chrome, safari]
+- OS: [e.g. iOS]
 
-1. First step
-1. Second step
-1. etc.
+## Screenshots
 
-## Checklist
-
-<!-- TODO: Update the link below to point to your project's contributing guidelines -->
-- [ ] I have read the [contributing guidelines](/CONTRIBUTING.md)
-- [ ] I have verified this does not duplicate an existing issue
+<!-- If applicable, add screenshots to help explain your problem. -->

@@ -1,25 +1,28 @@
 ---
-name: Feature Request
-about: Suggest a feature for this project
-title: ''
-labels: ''
-assignees: ''
-
+name: "✨ New Feature"
+about: Suggest an idea
+title: "✨"
+labels: "Type: Feature"
+assignees: ""
 ---
+## Pain
 
-## Problem Statement
+<!-- A clear and concise description of what the problem is. Ex. I'm always frustrated when [...] -->
 
-Please describe the problem to be addressed by the proposed feature.
+## Suggested Solution
 
-## Proposed Solution
+<!-- A clear and concise description of what you want to happen. -->
 
-Please describe what you envision the solution to this problem would look like.
+## Tasks
 
-## Alternatives Considered
+<!--Add GitHub tasks-->
 
-Please briefly describe which alternatives, if any, have been considered, including merits of alternate approaches and
-tradeoffs being made.
+## More Information
 
-## Additional Context
+<!-- Add any other context here. -->
 
-Please provide any other information that may be relevant.
+## Screenshots
+
+<!-- If applicable, add screenshots to help explain your problem. -->
+
+Thanks!
